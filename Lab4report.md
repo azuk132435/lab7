@@ -1,5 +1,6 @@
 **Lab Report 4**
 4.I typed out cs15lfa23bn@ieng6.ucsd.edu <enter> <br>
+
 ![Image](Lab 7 - step 0.JPG)<br>
 
 5.I typed <git clone git clone git@github.com:azuk132435/lab7.git <enter> <br> to clone the ssh onto my terminal.<br>
@@ -20,5 +21,5 @@ x to delete the 1. Then I clicked i to enter insert more and then i clicked 2 to
 9.I typed git add ListExamples.java <enter>, then git commit <enter>, I then clicked i to enter insert mode
 and typed "update" as my message, then I clicked <esc> to exit insert mode , and then :wq <enter> to save the changes. Then finally git push <enter> to push the changes. <br>
 
-![Image](Lab 7 - Step 9_1.JPG)<br>
-![Image](Lab 7 - step 9_2.JPG)<br>
+![Image](Lab 7 - step 9_1.JPG)<br>
+![Image](Lab 7 - Step 9_2.JPG)<br>
