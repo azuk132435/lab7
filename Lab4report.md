@@ -6,7 +6,7 @@
 
 5.I typed git clone git clone git@github.com:azuk132435/lab7.git:
 ```
-git clone git clone git@github.com:azuk132435/lab7.git <enter>
+git clone git@github.com:azuk132435/lab7.git <enter>
 
 ```
 to clone the ssh onto my terminal.<br>
