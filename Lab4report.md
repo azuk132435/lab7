@@ -1,4 +1,5 @@
-**Lab Report 4**
+**Lab Report 4** <br>
+
 4.I typed out cs15lfa23bn@ieng6.ucsd.edu <enter> <br>
 
 ![Image](Lab 7 - step 0.JPG)<br>
