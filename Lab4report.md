@@ -1,7 +1,9 @@
 **Lab Report 4** <br>
 
-4.I typed out cs15lfa23bn@ieng6.ucsd.edu <enter> <br>
-
+4.I typed out 
+```
+cs15lfa23bn@ieng6.ucsd.edu 
+```
 ![Image](step 0.JPG)<br>
 
 5.I typed git clone git clone git@github.com:azuk132435/lab7.git:
@@ -50,5 +52,6 @@ update
 :wq <enter>
 git push <enter>
 ```
+
 ![Image](step 9_1.JPG)<br>
 ![Image](Step 9_2.JPG)<br>
