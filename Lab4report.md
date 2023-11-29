@@ -52,6 +52,6 @@ update
 :wq <enter>
 git push <enter>
 ```
-
+<br>
 ![Image](step 9_1.JPG)<br>
 ![Image](Step 9_2.JPG)<br>
